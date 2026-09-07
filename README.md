@@ -61,4 +61,4 @@ The model uncovered a highly significant, tight negative linear correlation ($p 
 ## 🚀 How to Run the Analysis
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/Murad-96/nhs-ae-operations-analytics.git](https://github.com/your-username/your-repo-name.git)
